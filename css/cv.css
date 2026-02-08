@@ -138,3 +138,10 @@ body { padding-top: 50px; }
 .passion{ color: #fff; display: inline-block; margin-right: 5px;
           margin-bottom: 5px; padding: 5px 5px 5px 5px; background: #000;
           position: relative; font-size: 1.2em; border-radius: 10px; }
+
+/******************************************
+*     Expériences professionnelles
+******************************************/
+.experience .col-9 {
+    margin-left: 20px;
+}
