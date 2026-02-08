@@ -1,5 +1,11 @@
 #maPhoto {
     margin-right: 10px;
+    font-size: 16px;
+font-weight: 400;
+height: 128px;
+line-height: 24px;
+margin-right: 10px;
+width: 128px;
 }
 .jumbotron {    
     padding-bottom: 32px;
