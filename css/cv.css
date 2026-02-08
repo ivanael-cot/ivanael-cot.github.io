@@ -99,6 +99,7 @@ body { padding-top: 50px; }
                 -moz-filter: grayscale(1); -ms-filter: grayscale(1);
                 -o-filter: grayscale(1); height: 32px; width: 32px; 
                 margin: 2px 0; }
+.contact-icon.fa { color: #666; font-size: 32px; margin: 2px 0; }
 .meContacter a, .meContacter a:hover { text-decoration: none; color: black; }
 .meContacter a:hover>img { 
   filter: grayscale(0);
@@ -107,6 +108,7 @@ body { padding-top: 50px; }
   -ms-filter: grayscale(0);
   -o-filter: grayscale(0);
 }
+.meContacter a:hover>i { color: rgb(226,0,26); }
 /******************************************
 *     Compétences 
 ******************************************/
