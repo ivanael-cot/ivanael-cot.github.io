@@ -1,2 +1,2 @@
 # ivanael-cot.github.io
-portfolio d'amelia
+portfolio d'Ivanaël 
